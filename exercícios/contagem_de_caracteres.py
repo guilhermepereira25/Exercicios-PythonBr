@@ -30,6 +30,7 @@ def contar_caracteres(s):
 
     print(f'{caracter_anterior}: {contagem}')
 
+
 if __name__ == '__main__':
     contar_caracteres('gui')
     print()
